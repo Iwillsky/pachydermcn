@@ -1,5 +1,11 @@
 # pachydermcn
 
+操作步骤参考Blog：
+
+
+
+Referenc Document: 
+
 Pachyderm-on-EKS Handbook 
 
-Referenc Document: EKS Handbook by Ryan Lao
+EKS Handbook by Ryan Lao
